@@ -110,7 +110,7 @@ MIT. No "pro" tier, no feature gates, no telemetry, no upsell. If it works for y
 
 </div>
 
-**Maintained by** [@Nahuel990](https://github.com/Nahuel990) and the MiniStack community.
+**Built by MiniStackers, for MiniStackers. Welcome ❤️**
 
 ---
 
